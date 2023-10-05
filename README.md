@@ -17,7 +17,7 @@ It includes a hero section, article content, and a brief history section.
 
 ## Usage
 
-You can view the live website by visiting [Demo]([https://your-demo-link.com](https://651e9a2b1547de0d249fe88e--verdant-kitsune-3d40b2.netlify.app/)).
+You can view the live website by visiting [Demo]([https://651e9a2b1547de0d249fe88e--verdant-kitsune-3d40b2.netlify.app/]).
 
 To run this project locally:
 
