@@ -3,9 +3,9 @@
 This is a sample magazine website created using HTML and CSS. The website features a modern and responsive design with a focus on typography and layout. 
 It includes a hero section, article content, and a brief history section.
 
-![Magazine Website Screenshot](screenshot-1.png)
-![Magazine Website Screenshot](screenshot-2.png)
-![Magazine Website Screenshot](screenshot-3.png)
+![Magazine Website Screenshot](Screenshot-1.png)
+![Magazine Website Screenshot](Screenshot-2.png)
+![Magazine Website Screenshot](Screenshot-3.png)
 ## Features
 
 - Responsive design for various screen sizes.
